@@ -1,0 +1,8 @@
+[package]
+name = "bevy-pointer-target"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = { version = "0.16.0" }
+bevy-inspector-egui = "0.31"
